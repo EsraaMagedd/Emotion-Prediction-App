@@ -51,11 +51,26 @@
 <h3>Surprise Emotion</h3>
 <img src="Screenshots/surprise.jpg" alt="Surprise Emotion">
 
+
 <h2>Visualization charts</h2>
 
+<h3>Pie Chart</h3>
 <img src="Screenshots/Pie 1.jpeg" alt="Pie1">
+
+<h3>Pie Chart</h3>
 <img src="Screenshots/Pie 2.jpeg" alt="Pie2">
+
+<h3>Bar Char</h3>
 <img src="Screenshots/bar chart.PNG" alt="bar chart">
+
+<h3>Heatmap</h3>
 <img src="Screenshots/heatmap chart.PNG" alt="heatmap">
+
+<h3>Area Chart</h3>
 <img src="Screenshots/area chart.PNG" alt="area chart">
+
+<h3>Line Chart</h3>
 <img src="Screenshots/line chart.PNG" line chart">
+
+<h3>Pie Chart</h3>
+<img src="Screenshots/pie chart.PNG" alt="pie chart">
