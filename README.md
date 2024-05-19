@@ -19,3 +19,23 @@
   <li><strong>Test Model:</strong> Test the trained models with new text inputs to make predictions.</li>
 </ol>
 
+
+<h2>Screenshots</h2>
+
+<h3>Anger Emotion</h3>
+<img src="Screenshots/anger.jpg" alt="Anger Emotion">
+
+<h3>Anticipation Emotion</h3>
+<img src="Screenshots/anticipation.jpg" alt="Anticipation Emotion">
+
+<h3>Sad Emotion</h3>
+<img src="Screenshots/sad.jpg" alt="Sad Emotion">
+
+<h3>Joy Emotion</h3>
+<img src="Screenshots/joy.jpg" alt="Joy Emotion">
+
+<h3>Fear Emotion</h3>
+<img src="Screenshots/fear.jpg" alt="Fear Emotion">
+
+<h3>Surprise Emotion</h3>
+<img src="Screenshots/surprise.jpg" alt="Surprise Emotion">
