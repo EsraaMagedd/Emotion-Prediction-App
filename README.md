@@ -9,6 +9,7 @@
   <li><strong>Encoding Target Column:</strong> Map the emotion labels to numerical values.</li>
   <li><strong>Split Data into Train and Test:</strong> Split the dataset into training and testing sets.</li>
   <li><strong>Convert Text Column to Numeric Vector:</strong> Use TF-IDF vectorization to convert the text data into numeric vectors.</li>
+  <li><strong>Visualizations of Data:</strong> Generate visualizations to gain insights into the dataset.</li>
   <li><strong>Machine Learning Model:</strong>
     <ul>
       <li><strong>Naive Bayes:</strong> Train a Multinomial Naive Bayes model and evaluate its performance.</li>
