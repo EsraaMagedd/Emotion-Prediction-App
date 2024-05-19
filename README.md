@@ -50,3 +50,12 @@
 
 <h3>Surprise Emotion</h3>
 <img src="Screenshots/surprise.jpg" alt="Surprise Emotion">
+
+<h2>Visualization charts</h2>
+
+<img src="Screenshots/Pie 1.jpeg" alt="Pie1">
+<img src="Screenshots/Pie 2.jpeg" alt="Pie2">
+<img src="Screenshots/bar chart.PNG" alt="bar chart">
+<img src="Screenshots/heatmap chart.PNG" alt="heatmap">
+<img src="Screenshots/area chart.PNG" alt="area chart">
+<img src="Screenshots/line chart.PNG" line chart">
