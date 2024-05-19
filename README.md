@@ -15,28 +15,21 @@
       <li><strong>Naive Bayes:</strong>
         <ul>
           <li>Train a Multinomial Naive Bayes model and evaluate its performance.</li>
-          <li><strong>Confusion Matrix:</strong>
-            <img src="Models performance/nb.jpg" alt="Naive Bayes"width="400">
-          </li>
+          <li><strong>Confusion Matrix:</strong></li>
+          <img src="Models performance/nb.jpg" alt="Naive Bayes" width="400">
         </ul>
       </li>
       <li><strong>Random Forest:</strong>
         <ul>
-          <li><strong>Random Forest:</strong>
-            <ul>
-              <li>Train a Random Forest model and evaluate its performance.</li>
-              <li><strong>Confusion Matrix:</strong>
-                <img src="Models performance/rf.jpg" alt="Random Forest"width="400">
-              </li>
-            </ul>
-          </li>
+          <li>Train a Random Forest model and evaluate its performance.</li>
+          <li><strong>Confusion Matrix:</strong></li>
+          <img src="Models performance/rf.jpg" alt="Random Forest" width="400">
         </ul>
       </li>
     </ul>
   </li>
   <li><strong>Test Model:</strong> Test the trained models with new text inputs to make predictions.</li>
 </ol>
-
 
 <h2>Screenshots</h2>
 
