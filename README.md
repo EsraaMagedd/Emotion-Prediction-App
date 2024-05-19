@@ -12,8 +12,26 @@
   <li><strong>Visualizations of Data:</strong> Generate visualizations to gain insights into the dataset.</li>
   <li><strong>Machine Learning Model:</strong>
     <ul>
-      <li><strong>Naive Bayes:</strong> Train a Multinomial Naive Bayes model and evaluate its performance.</li>
-      <li><strong>Random Forest:</strong> Train a Random Forest classifier and evaluate its performance.</li>
+      <li><strong>Naive Bayes:</strong>
+        <ul>
+          <li>Train a Multinomial Naive Bayes model and evaluate its performance.</li>
+          <li><strong>Confusion Matrix:</strong>
+            <img src="Models performance/nb.jpg" alt="Naive Bayes"width="400">
+          </li>
+        </ul>
+      </li>
+      <li><strong>Random Forest:</strong>
+        <ul>
+          <li><strong>Random Forest:</strong>
+            <ul>
+              <li>Train a Random Forest model and evaluate its performance.</li>
+              <li><strong>Confusion Matrix:</strong>
+                <img src="Models performance/rf.jpg" alt="Random Forest"width="400">
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li><strong>Test Model:</strong> Test the trained models with new text inputs to make predictions.</li>
